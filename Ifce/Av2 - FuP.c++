@@ -146,7 +146,7 @@
 				{	
 					aux = (rand() % 2);
 					aux = 0;
-					//aux = 1 imcompleto -_-
+					//aux = 1 -_-
 					if(aux == 0)
 						x[0][0] = 'X';
 					if(aux == 1)
