@@ -34,9 +34,9 @@
 				cin >> c;
 				
 				if(l > 3 || l < 1)
-					cout << "Valor de linha inválido !" << endl;
+					cout << "Valor de linha invalido !" << endl;
 				if(c > 3 || c < 1)
-					cout << "Valor de coluna inválido !" << endl;	 
+					cout << "Valor de coluna invalido !" << endl;	 
 
 				cout << endl;	
 
@@ -92,9 +92,9 @@
 				cin >> c;
 				
 				if(l > 3 || l < 1)
-					cout << "Valor de linha inválido !" << endl;
+					cout << "Valor de linha invalido !" << endl;
 				if(c > 3 || c < 1)
-					cout << "Valor de coluna inválido !" << endl;	 
+					cout << "Valor de coluna invalido !" << endl;	 
 				
 				cout << endl;	
 
@@ -465,9 +465,9 @@
 					cin >> c;
 
 				if(l > 3 || l < 1)
-					cout << "Valor de linha inválido !" << endl;
+					cout << "Valor de linha invalido !" << endl;
 				if(c > 3 || c < 1)
-					cout << "Valor de coluna inválido !" << endl;	 
+					cout << "Valor de coluna invalido !" << endl;	 
 				
 				cout << endl;	
 				
